@@ -1,4 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Jones====================================================================================================================================Full Stack Software Engineer----------------------------Passionate, innovative thinker with experience building full stack applications with Ruby, Rails, Javascript, React, Redux, SQL databases, and RESTful API architecture. Demonstrated ability to develop and integrate solutions for clients while working with cross-functional teams in an agile environment.* 🌍  I'm based in Baltimore, Maryland* ✉️  You can contact me at [daniel.jones424@gmail.com](mailto:daniel.jones424@gmail.com)* 🧠  I'm learning TypeScript, ReactNative and PostgresSQL* 🤝  I'm open to collaborating on any kind of open source project or fun personal application!* ⚡  I am currently in my first year of professional experience as a Jr. Software Engineer for MNCP. Staffing.
+Hi! My name is Daniel
+Jones
+==============================================================================================================================
+Full Stack Software Engineer
+----------------------------
+Passionate, innovative thinker with experience building full stack applications with Ruby, Rails, Javascript, React, Redux, SQL databases, and RESTful API architecture. Demonstrated ability to develop and integrate solutions for clients while working with cross-functional teams in an agile environment.* 🌍  I'm based in Baltimore, Maryland* ✉️  You can contact me at [daniel.jones424@gmail.com](mailto:daniel.jones424@gmail.com)* 🧠  I'm learning TypeScript, ReactNative and PostgresSQL* 🤝  I'm open to collaborating on any kind of open source project or fun personal application!* ⚡  I am currently in my first year of professional experience as a Jr. Software Engineer for MNCP. Staffing.
 
 ### Skills
 
